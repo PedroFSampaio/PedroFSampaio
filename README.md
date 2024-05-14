@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>| Java | Python | SQL | JavaScript | Automation Anywhere |</strong>
+  🦄 Linguagens: <strong>| Java | Python | SQL | JavaScript |</strong>
 </p>
 
 <p align="left">
